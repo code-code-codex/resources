@@ -1,5 +1,5 @@
 # Resources
-Just a list of resources, projects, etc. interesting for dev. and/or the Digital Humanities
+Just a list of resources, projects, tools, etc. interesting for dev. and/or the Digital Humanities
 
 ## Basics
 
@@ -48,3 +48,32 @@ An XForms-ish lib.
 ### JuliaLang
 - Julia: [https://julialang.org/](https://julialang.org/)
 - Think Julia (fre): [https://julia.developpez.com/tutoriels/think-julia-fr/?page=preface](https://julia.developpez.com/tutoriels/think-julia-fr/?page=preface)
+
+## Tools
+### Text editors / IDE
+#### Free
+- Atom: [https://atom.io/](https://atom.io/)
+- Visual Studio Code: [https://code.visualstudio.com/](https://code.visualstudio.com/)
+
+#### Paid
+- OxygenXML Editor:[https://www.oxygenxml.com/](https://www.oxygenxml.com/)
+- WebStorm (intelliJ): [https://www.jetbrains.com/fr-fr/webstorm/](https://www.jetbrains.com/fr-fr/webstorm/)
+- Sublime text:[https://www.sublimetext.com/](https://www.sublimetext.com/)
+
+### Markdown editors
+- Typora (paid): [https://typora.io/](https://typora.io/)
+- Zettlr (free): [https://www.zettlr.com/](https://www.zettlr.com/)
+
+### Data cleaning
+- openRefine: [https://openrefine.org/](https://openrefine.org/)
+
+### DataViz
+#### Graph visualization 
+- Cosma: [https://cosma.graphlab.fr/](https://cosma.graphlab.fr/)
+- Zettlr: [https://www.zettlr.com/](https://www.zettlr.com/)
+- Gephi: [https://gephi.org/](https://gephi.org/)
+- Cytoscape: [https://cytoscape.org/](https://cytoscape.org/)
+- Palladio: [https://hdlab.stanford.edu/palladio/](https://hdlab.stanford.edu/palladio/)
+
+#### Geographic information system
+- QGIS: [https://www.qgis.org/fr/site/](https://www.qgis.org/fr/site/)
