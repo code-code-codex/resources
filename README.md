@@ -10,6 +10,7 @@ Just a list of resources, projects, tools, etc. interesting for dev. and/or the 
 ## XML Tech
 ### Miscellaneous
 - XML tech for DH: [http://dh.obdurodon.org/](http://dh.obdurodon.org/)
+- XSLT fiddel: [https://martin-honnen.github.io/xslt3fiddle/](https://martin-honnen.github.io/xslt3fiddle/)
 
 ### XML
 ### XPath
@@ -40,9 +41,12 @@ An XForms-ish lib.
 - Burnard, Lou, Qu’est-ce que la Text Encoding Initiative ?: [http://books.openedition.org/oep/1297](http://books.openedition.org/oep/1297)
 - Burnard, Lou, What is the Text Encoding Initiative?: [http://books.openedition.org/oep/688](http://books.openedition.org/oep/688)
 
-
 #### GraphML
 - GraphML: [http://cs.brown.edu/people/rtamassi/gdhandbook/chapters/graphml.pdf](http://cs.brown.edu/people/rtamassi/gdhandbook/chapters/graphml.pdf)
+
+#### Archival dialects
+- EAC-CPF: [https://eac.staatsbibliothek-berlin.de/](https://eac.staatsbibliothek-berlin.de/)
+- 
 
 ## Script languages
 ### JuliaLang
