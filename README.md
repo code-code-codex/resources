@@ -10,7 +10,8 @@ Just a list of resources, projects, tools, etc. interesting for dev. and/or the 
 ## XML Tech
 ### Miscellaneous
 - XML tech for DH: [http://dh.obdurodon.org/](http://dh.obdurodon.org/)
-- XSLT fiddel: [https://martin-honnen.github.io/xslt3fiddle/](https://martin-honnen.github.io/xslt3fiddle/)
+- XSLT fiddle: [https://martin-honnen.github.io/xslt3fiddle/](https://martin-honnen.github.io/xslt3fiddle/)
+- XML-Workbench (XML - XSLT - XQuery - XPath fiddle): [https://martin-honnen.github.io/xml-workbench/](https://martin-honnen.github.io/xml-workbench/)
 
 ### XML
 ### XPath
@@ -29,6 +30,8 @@ A client for XForms
 - Wiki: [https://en.wikibooks.org/wiki/XSLTForms](https://en.wikibooks.org/wiki/XSLTForms)
 - Github (declarative4all): [https://github.com/AlainCouthures/declarative4all](https://github.com/AlainCouthures/declarative4all)
 - Download latest: [https://github.com/AlainCouthures/declarative4all/raw/master/public/direct/xsltforms.zip.](https://github.com/AlainCouthures/declarative4all/raw/master/public/direct/xsltforms.zip.)
+- Steven Pemberton's tutorial: [https://homepages.cwi.nl/~steven/xforms/xforms-hands-on/](https://homepages.cwi.nl/~steven/xforms/xforms-hands-on/)
+- NB XSLTForms allows to define our own Xpath function [https://www.mail-archive.com/xsltforms-support@lists.sourceforge.net/msg00109.html](https://www.mail-archive.com/xsltforms-support@lists.sourceforge.net/msg00109.html)
 
 #### Fore
 An XForms-ish lib.
