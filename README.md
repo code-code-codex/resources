@@ -3,9 +3,24 @@ Just a list of resources, projects, tools, etc. interesting for dev. and/or the 
 
 ## Basics
 
-### HTML
-- Course (Jen Simmons): [https://www.linkedin.com/learning/html-essential-training-4](https://www.linkedin.com/learning/html-essential-training-4)
-### CSS
+### Programming Foundations
+- Fundamentals (Annyce Davis): [https://www.linkedin.com/learning/programming-foundations-fundamentals-3](https://www.linkedin.com/learning/programming-foundations-fundamentals-3)
+- Databases (Scott Simpson):[https://www.linkedin.com/learning/programming-foundations-databases-2?trk=learning-path&upsellOrderOrigin=default_guest_learning](https://www.linkedin.com/learning/programming-foundations-databases-2?trk=learning-path&upsellOrderOrigin=default_guest_learning)
+- Web Security (Kevin Skolund): [https://www.linkedin.com/learning/programming-foundations-web-security-2?trk=learning-path&upsellOrderOrigin=default_guest_learning](https://www.linkedin.com/learning/programming-foundations-web-security-2?trk=learning-path&upsellOrderOrigin=default_guest_learning)
+
+### Succeeding in web Development
+- Full Stack and Front End (Ray Villalobos): [https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end?trk=learning-path&upsellOrderOrigin=default_guest_learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end?trk=learning-path&upsellOrderOrigin=default_guest_learning)
+
+### Essentiel Training
+- HTML (Jen Simmons): [https://www.linkedin.com/learning/html-essential-training-4](https://www.linkedin.com/learning/html-essential-training-4)
+- CSS (Christina Truong): [https://www.linkedin.com/learning/css-essential-training-3?trk=learning-path&upsellOrderOrigin=default_guest_learning](https://www.linkedin.com/learning/css-essential-training-3?trk=learning-path&upsellOrderOrigin=default_guest_learning)
+- JavaScript (Morten Rand-Hendriksen): [https://www.linkedin.com/learning/javascript-essential-training?trk=learning-path&upsellOrderOrigin=default_guest_learning](https://www.linkedin.com/learning/javascript-essential-training?trk=learning-path&upsellOrderOrigin=default_guest_learning)
+
+### Learning
+- Java (Kathryn Hodge): [https://www.linkedin.com/learning/learning-java-4?trk=learning-path&upsellOrderOrigin=default_guest_learning](https://www.linkedin.com/learning/learning-java-4?trk=learning-path&upsellOrderOrigin=default_guest_learning)
+- C# (Joe Marini): [https://www.linkedin.com/learning/learning-c-sharp-8581491?trk=learning-path&upsellOrderOrigin=default_guest_learning](https://www.linkedin.com/learning/learning-c-sharp-8581491?trk=learning-path&upsellOrderOrigin=default_guest_learning)
+- SQL Programming (Scott Simpson): [https://www.linkedin.com/learning/learning-sql-programming-8382385?trk=learning-path&upsellOrderOrigin=default_guest_learning](https://www.linkedin.com/learning/learning-sql-programming-8382385?trk=learning-path&upsellOrderOrigin=default_guest_learning)
+
 
 ## XML Tech
 ### Miscellaneous
@@ -87,3 +102,4 @@ An XForms-ish lib.
 
 ## Tutorials
 - Tuto@mate: [https://mate-shs.cnrs.fr/actions/tutomate/](https://mate-shs.cnrs.fr/actions/tutomate/)
+
