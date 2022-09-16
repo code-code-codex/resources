@@ -76,6 +76,8 @@ An XForms-ish lib.
 #### Free
 - Atom: [https://atom.io/](https://atom.io/)
 - Visual Studio Code: [https://code.visualstudio.com/](https://code.visualstudio.com/)
+#### Usefull extentions for Visual Studio Code
+    - Scholarly XML: [https://marketplace.visualstudio.com/items?itemName=raffazizzi.sxml](https://marketplace.visualstudio.com/items?itemName=raffazizzi.sxml)
 
 #### Paid
 - OxygenXML Editor:[https://www.oxygenxml.com/](https://www.oxygenxml.com/)
