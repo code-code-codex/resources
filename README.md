@@ -105,3 +105,11 @@ An XForms-ish lib.
 ## Tutorials
 - Tuto@mate: [https://mate-shs.cnrs.fr/actions/tutomate/](https://mate-shs.cnrs.fr/actions/tutomate/)
 
+
+## Online databases
+
+- Base Geneanot: [https://www.siv.archives-nationales.culture.gouv.fr/siv/cms/content/helpGuide.action?uuid=09f28dd8-7956-423c-b20f-bbfb7c20e6fd&version=2&preview=false&typeSearch=&searchString=](https://www.siv.archives-nationales.culture.gouv.fr/siv/cms/content/helpGuide.action?uuid=09f28dd8-7956-423c-b20f-bbfb7c20e6fd&version=2&preview=false&typeSearch=&searchString=) Civil status from notaries repertories at the French Archives nationales from 1780 to 1790. (On retrouve ainsi des contrats de mariage, des inventaires après décès, des testaments, des actes de notoriétés, des contrat de mariage, des dépôts d'acte baptistaire, de mariage, mortuaire, des certificats de vie et des consentements à mariage. Cette base est tout particulièrement intéressante du fait de la disparition de l'état civil parisien lors de l'incendie de la Commune en 1871.)
+
+- Base Miriad 1-3: [https://www.siv.archives-nationales.culture.gouv.fr/siv/cms/content/helpGuide.action?uuid=2c2effef-ff59-401b-bf3b-3725784041ba&version=1&preview=false&typeSearch=&searchString=](https://www.siv.archives-nationales.culture.gouv.fr/siv/cms/content/helpGuide.action?uuid=2c2effef-ff59-401b-bf3b-3725784041ba&version=1&preview=false&typeSearch=&searchString=) posthumous inventories 1770-1790 (Miriad 1); 1801-1805 (Miriad 2); 1851-1871 (Miriad 3)
+
+- Clôture d'IAD: [https://fr.geneawiki.com/index.php?title=Au_del%C3%A0_de_l%27Etat-Civil_-_75_-_Cl%C3%B4tures_d%27inventaire_apr%C3%A8s_d%C3%A9c%C3%A8s](https://fr.geneawiki.com/index.php?title=Au_del%C3%A0_de_l%27Etat-Civil_-_75_-_Cl%C3%B4tures_d%27inventaire_apr%C3%A8s_d%C3%A9c%C3%A8s) 1675-1791
