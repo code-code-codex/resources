@@ -58,6 +58,7 @@ An XForms-ish lib.
 #### Text Encoding Initiative
 - Burnard, Lou, Qu’est-ce que la Text Encoding Initiative ?: [http://books.openedition.org/oep/1297](http://books.openedition.org/oep/1297)
 - Burnard, Lou, What is the Text Encoding Initiative?: [http://books.openedition.org/oep/688](http://books.openedition.org/oep/688)
+- TEIC, how to chain: [http://teic.github.io/TCW/howtoChain.html](http://teic.github.io/TCW/howtoChain.html)
 
 #### GraphML
 - GraphML: [http://cs.brown.edu/people/rtamassi/gdhandbook/chapters/graphml.pdf](http://cs.brown.edu/people/rtamassi/gdhandbook/chapters/graphml.pdf)
