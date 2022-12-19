@@ -21,6 +21,9 @@ Just a list of resources, projects, tools, etc. interesting for dev. and/or the 
 - C# (Joe Marini): [https://www.linkedin.com/learning/learning-c-sharp-8581491?trk=learning-path&upsellOrderOrigin=default_guest_learning](https://www.linkedin.com/learning/learning-c-sharp-8581491?trk=learning-path&upsellOrderOrigin=default_guest_learning)
 - SQL Programming (Scott Simpson): [https://www.linkedin.com/learning/learning-sql-programming-8382385?trk=learning-path&upsellOrderOrigin=default_guest_learning](https://www.linkedin.com/learning/learning-sql-programming-8382385?trk=learning-path&upsellOrderOrigin=default_guest_learning)
 
+## HTML 
+### HEAD
+A simple guide to HTML `<head>` elements (joshbuchea): [https://github.com/joshbuchea/head](https://github.com/joshbuchea/head)
 
 ## XML Tech
 ### Miscellaneous
@@ -65,7 +68,9 @@ An XForms-ish lib.
 
 #### Archival dialects
 - EAC-CPF: [https://eac.staatsbibliothek-berlin.de/](https://eac.staatsbibliothek-berlin.de/)
-- 
+
+## Ontologies
+- Les métadonnées archivistiques en transition vers des graphes de données (Florence Clavaud): [https://labarchiv.hypotheses.org/1495](https://labarchiv.hypotheses.org/1495)
 
 ## Script languages
 ### JuliaLang
@@ -100,11 +105,23 @@ An XForms-ish lib.
 - Cytoscape: [https://cytoscape.org/](https://cytoscape.org/)
 - Palladio: [https://hdlab.stanford.edu/palladio/](https://hdlab.stanford.edu/palladio/)
 
+### Network Analysis
+- L'analyse des graphes bipartis (Laurent Beauguitte): [https://halshs.archives-ouvertes.fr/halshs-00794976/](https://halshs.archives-ouvertes.fr/halshs-00794976/)
+- Les réseaux multiplexes (Laurent Beauguitte et Paul Gourdon): [https://groupefmr.hypotheses.org/6016](https://groupefmr.hypotheses.org/6016) | [https://github.com/pgourdongeo/Tuto_R_multinet_fmr_fr](https://github.com/pgourdongeo/Tuto_R_multinet_fmr_fr)
+- Network analysis: [https://arshs.hypotheses.org/1340#more-1340](https://arshs.hypotheses.org/1340#more-1340)
+
+### FAIR
+- FAIR Data Guidelines: [https://www.rd-alliance.org/group/fair-data-maturity-model-wg/outcomes/fair-data-maturity-model-specification-and-guidelines](https://www.rd-alliance.org/group/fair-data-maturity-model-wg/outcomes/fair-data-maturity-model-specification-and-guidelines)
+
 #### Geographic information system
 - QGIS: [https://www.qgis.org/fr/site/](https://www.qgis.org/fr/site/)
 
 ## Tutorials
 - Tuto@mate: [https://mate-shs.cnrs.fr/actions/tutomate/](https://mate-shs.cnrs.fr/actions/tutomate/)
+
+## Seminars
+- Valorisation des corpus de correspondances: [https://www.canal-u.tv/chaines/cnrspouchet/equipe-humanites-numeriques/valorisation-des-corpus-de-correspondance-usages](https://www.canal-u.tv/chaines/cnrspouchet/equipe-humanites-numeriques/valorisation-des-corpus-de-correspondance-usages)
+
 
 
 ## Online databases
