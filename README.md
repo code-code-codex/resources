@@ -105,6 +105,9 @@ An XForms-ish lib.
 - Cytoscape: [https://cytoscape.org/](https://cytoscape.org/)
 - Palladio: [https://hdlab.stanford.edu/palladio/](https://hdlab.stanford.edu/palladio/)
 
+### Cartography
+- Cours de M1 de Nicolas Lambert sur observablehq: [https://observablehq.com/collection/@cartographie/cours](https://observablehq.com/collection/@cartographie/cours)
+
 ### Network Analysis
 - L'analyse des graphes bipartis (Laurent Beauguitte): [https://halshs.archives-ouvertes.fr/halshs-00794976/](https://halshs.archives-ouvertes.fr/halshs-00794976/)
 - Les réseaux multiplexes (Laurent Beauguitte et Paul Gourdon): [https://groupefmr.hypotheses.org/6016](https://groupefmr.hypotheses.org/6016) | [https://github.com/pgourdongeo/Tuto_R_multinet_fmr_fr](https://github.com/pgourdongeo/Tuto_R_multinet_fmr_fr)
