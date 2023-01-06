@@ -106,7 +106,7 @@ An XForms-ish lib.
 - Palladio: [https://hdlab.stanford.edu/palladio/](https://hdlab.stanford.edu/palladio/)
 
 ### Cartography
-- Cours de M1 de Nicolas Lambert sur observablehq: [https://observablehq.com/collection/@cartographie/cours](https://observablehq.com/collection/@cartographie/cours)
+- Cours de M1 de Nicolas Lambert sur Observablehq [Observable est une plateforme en ligne pour créer des visualisations]: [https://observablehq.com/collection/@cartographie/cours](https://observablehq.com/collection/@cartographie/cours)
 
 ### Network Analysis
 - L'analyse des graphes bipartis (Laurent Beauguitte): [https://halshs.archives-ouvertes.fr/halshs-00794976/](https://halshs.archives-ouvertes.fr/halshs-00794976/)
