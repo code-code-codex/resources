@@ -105,8 +105,11 @@ An XForms-ish lib.
 - Cytoscape: [https://cytoscape.org/](https://cytoscape.org/)
 - Palladio: [https://hdlab.stanford.edu/palladio/](https://hdlab.stanford.edu/palladio/)
 
-### Cartography
+#### Cartography
 - Cours de M1 de Nicolas Lambert sur Observablehq [Observable est une plateforme en ligne pour créer des visualisations]: [https://observablehq.com/collection/@cartographie/cours](https://observablehq.com/collection/@cartographie/cours)
+
+#### Geographic information system
+- QGIS: [https://www.qgis.org/fr/site/](https://www.qgis.org/fr/site/)
 
 ### Network Analysis
 - L'analyse des graphes bipartis (Laurent Beauguitte): [https://halshs.archives-ouvertes.fr/halshs-00794976/](https://halshs.archives-ouvertes.fr/halshs-00794976/)
@@ -116,8 +119,10 @@ An XForms-ish lib.
 ### FAIR
 - FAIR Data Guidelines: [https://www.rd-alliance.org/group/fair-data-maturity-model-wg/outcomes/fair-data-maturity-model-specification-and-guidelines](https://www.rd-alliance.org/group/fair-data-maturity-model-wg/outcomes/fair-data-maturity-model-specification-and-guidelines)
 
-#### Geographic information system
-- QGIS: [https://www.qgis.org/fr/site/](https://www.qgis.org/fr/site/)
+### Web design
+#### icons
+- Picol: [https://www.picol.org/](https://www.picol.org/)
+- ionicons: [https://ionic.io/ionicons](https://ionic.io/ionicons)
 
 ## Tutorials
 - Tuto@mate: [https://mate-shs.cnrs.fr/actions/tutomate/](https://mate-shs.cnrs.fr/actions/tutomate/)
@@ -128,7 +133,6 @@ An XForms-ish lib.
 
 
 ## Online databases
-
 - Base Geneanot: [https://www.siv.archives-nationales.culture.gouv.fr/siv/cms/content/helpGuide.action?uuid=09f28dd8-7956-423c-b20f-bbfb7c20e6fd&version=2&preview=false&typeSearch=&searchString=](https://www.siv.archives-nationales.culture.gouv.fr/siv/cms/content/helpGuide.action?uuid=09f28dd8-7956-423c-b20f-bbfb7c20e6fd&version=2&preview=false&typeSearch=&searchString=) Civil status from notaries repertories at the French Archives nationales from 1780 to 1790. (On retrouve ainsi des contrats de mariage, des inventaires après décès, des testaments, des actes de notoriétés, des contrat de mariage, des dépôts d'acte baptistaire, de mariage, mortuaire, des certificats de vie et des consentements à mariage. Cette base est tout particulièrement intéressante du fait de la disparition de l'état civil parisien lors de l'incendie de la Commune en 1871.)
 
 - Base Miriad 1-3: [https://www.siv.archives-nationales.culture.gouv.fr/siv/cms/content/helpGuide.action?uuid=2c2effef-ff59-401b-bf3b-3725784041ba&version=1&preview=false&typeSearch=&searchString=](https://www.siv.archives-nationales.culture.gouv.fr/siv/cms/content/helpGuide.action?uuid=2c2effef-ff59-401b-bf3b-3725784041ba&version=1&preview=false&typeSearch=&searchString=) posthumous inventories 1770-1790 (Miriad 1); 1801-1805 (Miriad 2); 1851-1871 (Miriad 3)
