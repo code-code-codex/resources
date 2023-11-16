@@ -32,9 +32,15 @@ A simple guide to HTML `<head>` elements (joshbuchea): [https://github.com/joshb
 - XML-Workbench (XML - XSLT - XQuery - XPath fiddle): [https://martin-honnen.github.io/xml-workbench/](https://martin-honnen.github.io/xml-workbench/)
 
 ### XML
+### Schema
+#### Schematron
+- An Introduction to Schematron (Eddie Robertsson): [https://www.xml.com/pub/a/2003/11/12/schematron.html](https://www.xml.com/pub/a/2003/11/12/schematron.html)
+
 ### XPath
 ### XQuery
 - Introduction to XQuery update (for the impatient): [https://www.xmlmind.com/tutorials/XQueryUpdate/index.html](https://www.xmlmind.com/tutorials/XQueryUpdate/index.html)
+
+### XPointer
 
 ### Xforms
 - XForms 1.1 (w3c): [https://www.w3.org/TR/xforms/](https://www.w3.org/TR/xforms/)
@@ -50,6 +56,8 @@ A client for XForms
 - Download latest: [https://github.com/AlainCouthures/declarative4all/raw/master/public/direct/xsltforms.zip.](https://github.com/AlainCouthures/declarative4all/raw/master/public/direct/xsltforms.zip.)
 - Steven Pemberton's tutorial: [https://homepages.cwi.nl/~steven/xforms/xforms-hands-on/](https://homepages.cwi.nl/~steven/xforms/xforms-hands-on/)
 - NB XSLTForms allows to define our own Xpath function [https://www.mail-archive.com/xsltforms-support@lists.sourceforge.net/msg00109.html](https://www.mail-archive.com/xsltforms-support@lists.sourceforge.net/msg00109.html)
+- Transform test cases (C. M. Sperberg-McQueen): [https://blackmesatech.com/2012/07/testcase/transform/index.xml](https://blackmesatech.com/2012/07/testcase/transform/index.xml)
+- XSLTForms/The transform function: [https://en.wikibooks.org/wiki/XSLTForms/The_transform_function](https://en.wikibooks.org/wiki/XSLTForms/The_transform_function)
 
 #### Fore
 An XForms-ish lib.
@@ -83,7 +91,7 @@ An XForms-ish lib.
 - Atom: [https://atom.io/](https://atom.io/)
 - Visual Studio Code: [https://code.visualstudio.com/](https://code.visualstudio.com/)
 #### Usefull extentions for Visual Studio Code
-    - Scholarly XML: [https://marketplace.visualstudio.com/items?itemName=raffazizzi.sxml](https://marketplace.visualstudio.com/items?itemName=raffazizzi.sxml)
+- Scholarly XML: [https://marketplace.visualstudio.com/items?itemName=raffazizzi.sxml](https://marketplace.visualstudio.com/items?itemName=raffazizzi.sxml)
 
 #### Paid
 - OxygenXML Editor:[https://www.oxygenxml.com/](https://www.oxygenxml.com/)
@@ -118,7 +126,9 @@ An XForms-ish lib.
 
 ### FAIR
 - FAIR Data Guidelines: [https://www.rd-alliance.org/group/fair-data-maturity-model-wg/outcomes/fair-data-maturity-model-specification-and-guidelines](https://www.rd-alliance.org/group/fair-data-maturity-model-wg/outcomes/fair-data-maturity-model-specification-and-guidelines)
-
+- The FAIR Guiding Principles for scientific data management and stewardship: [https://www.nature.com/articles/sdata201618](https://www.nature.com/articles/sdata201618)
+- Les principes FAIR: [https://doranum.fr/enjeux-benefices/principes-fair_10_13143_z7s6-ed26/](https://doranum.fr/enjeux-benefices/principes-fair_10_13143_z7s6-ed26/)
+- Bien décrire ses données pour les valoriser : un modèle de README à votre disposition: [https://recherche.data.gouv.fr/fr/actualite/bien-decrire-ses-donnees-pour-les-valoriser-un-modele-de-readme-a-votre-disposition](https://recherche.data.gouv.fr/fr/actualite/bien-decrire-ses-donnees-pour-les-valoriser-un-modele-de-readme-a-votre-disposition)
 ### Web design
 #### icons
 - Picol: [https://www.picol.org/](https://www.picol.org/)
