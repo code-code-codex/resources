@@ -88,6 +88,9 @@ An XForms-ish lib.
 ## Tools
 ### Text editors / IDE
 #### Free
+- Vim: [https://www.vim.org/](https://www.vim.org/)
+#### Usefull customization for Vim
+- Vim reference guide (Sundeep Agarwal): [https://learnbyexample.github.io/vim_reference/](https://learnbyexample.github.io/vim_reference/)
 - Atom: [https://atom.io/](https://atom.io/)
 - Visual Studio Code: [https://code.visualstudio.com/](https://code.visualstudio.com/)
 #### Usefull extentions for Visual Studio Code
@@ -129,6 +132,7 @@ An XForms-ish lib.
 - The FAIR Guiding Principles for scientific data management and stewardship: [https://www.nature.com/articles/sdata201618](https://www.nature.com/articles/sdata201618)
 - Les principes FAIR: [https://doranum.fr/enjeux-benefices/principes-fair_10_13143_z7s6-ed26/](https://doranum.fr/enjeux-benefices/principes-fair_10_13143_z7s6-ed26/)
 - Bien décrire ses données pour les valoriser : un modèle de README à votre disposition: [https://recherche.data.gouv.fr/fr/actualite/bien-decrire-ses-donnees-pour-les-valoriser-un-modele-de-readme-a-votre-disposition](https://recherche.data.gouv.fr/fr/actualite/bien-decrire-ses-donnees-pour-les-valoriser-un-modele-de-readme-a-votre-disposition)
+
 ### Web design
 #### icons
 - Picol: [https://www.picol.org/](https://www.picol.org/)
@@ -140,10 +144,8 @@ An XForms-ish lib.
 ## Seminars
 - Valorisation des corpus de correspondances: [https://www.canal-u.tv/chaines/cnrspouchet/equipe-humanites-numeriques/valorisation-des-corpus-de-correspondance-usages](https://www.canal-u.tv/chaines/cnrspouchet/equipe-humanites-numeriques/valorisation-des-corpus-de-correspondance-usages)
 
-
-
 ## Online databases
-- Base Geneanot: [https://www.siv.archives-nationales.culture.gouv.fr/siv/cms/content/helpGuide.action?uuid=09f28dd8-7956-423c-b20f-bbfb7c20e6fd&version=2&preview=false&typeSearch=&searchString=](https://www.siv.archives-nationales.culture.gouv.fr/siv/cms/content/helpGuide.action?uuid=09f28dd8-7956-423c-b20f-bbfb7c20e6fd&version=2&preview=false&typeSearch=&searchString=) Civil status from notaries repertories at the French Archives nationales from 1780 to 1790. (On retrouve ainsi des contrats de mariage, des inventaires après décès, des testaments, des actes de notoriétés, des contrat de mariage, des dépôts d'acte baptistaire, de mariage, mortuaire, des certificats de vie et des consentements à mariage. Cette base est tout particulièrement intéressante du fait de la disparition de l'état civil parisien lors de l'incendie de la Commune en 1871.)
+- Base Geneanet: [https://www.siv.archives-nationales.culture.gouv.fr/siv/cms/content/helpGuide.action?uuid=09f28dd8-7956-423c-b20f-bbfb7c20e6fd&version=2&preview=false&typeSearch=&searchString=](https://www.siv.archives-nationales.culture.gouv.fr/siv/cms/content/helpGuide.action?uuid=09f28dd8-7956-423c-b20f-bbfb7c20e6fd&version=2&preview=false&typeSearch=&searchString=) Civil status from notaries repertories at the French Archives nationales from 1780 to 1790. (On retrouve ainsi des contrats de mariage, des inventaires après décès, des testaments, des actes de notoriétés, des contrat de mariage, des dépôts d'acte baptistaire, de mariage, mortuaire, des certificats de vie et des consentements à mariage. Cette base est tout particulièrement intéressante du fait de la disparition de l'état civil parisien lors de l'incendie de la Commune en 1871.)
 
 - Base Miriad 1-3: [https://www.siv.archives-nationales.culture.gouv.fr/siv/cms/content/helpGuide.action?uuid=2c2effef-ff59-401b-bf3b-3725784041ba&version=1&preview=false&typeSearch=&searchString=](https://www.siv.archives-nationales.culture.gouv.fr/siv/cms/content/helpGuide.action?uuid=2c2effef-ff59-401b-bf3b-3725784041ba&version=1&preview=false&typeSearch=&searchString=) posthumous inventories 1770-1790 (Miriad 1); 1801-1805 (Miriad 2); 1851-1871 (Miriad 3)
 
