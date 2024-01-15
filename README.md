@@ -88,13 +88,13 @@ An XForms-ish lib.
 ## Tools
 ### Text editors / IDE
 #### Free
+- Kakoune: [http://kakoune.org/](http://kakoune.org/)
+	- Why Kakoune — The quest for a better code editor (Maxime Coste): [http://kakoune.org/why-kakoune/why-kakoune.html](http://kakoune.org/why-kakoune/why-kakoune.html)
 - Vim: [https://www.vim.org/](https://www.vim.org/)
-#### Usefull customization for Vim
-- Vim reference guide (Sundeep Agarwal): [https://learnbyexample.github.io/vim_reference/](https://learnbyexample.github.io/vim_reference/)
+	- Vim reference guide (Sundeep Agarwal): [https://learnbyexample.github.io/vim_reference/](https://learnbyexample.github.io/vim_reference/)
 - Atom: [https://atom.io/](https://atom.io/)
 - Visual Studio Code: [https://code.visualstudio.com/](https://code.visualstudio.com/)
-#### Usefull extentions for Visual Studio Code
-- Scholarly XML: [https://marketplace.visualstudio.com/items?itemName=raffazizzi.sxml](https://marketplace.visualstudio.com/items?itemName=raffazizzi.sxml)
+	- Scholarly XML: [https://marketplace.visualstudio.com/items?itemName=raffazizzi.sxml](https://marketplace.visualstudio.com/items?itemName=raffazizzi.sxml)
 
 #### Paid
 - OxygenXML Editor:[https://www.oxygenxml.com/](https://www.oxygenxml.com/)
